@@ -1,9 +1,10 @@
 # Témata workshopů
-- Úvod do KBB - 24. 2. 2024
-- Linux a terminál - 2. 3. 2024
-- Sítě - 9. 3. 2024
-- Kryptografie a programování - 16. 3. 2024
-- Kybernetické útoky - 23. 3. 2024
+- Úvod do KBB - 22. 2. 2025
+- Linux a terminál - 23. 2. 2025
+- Sítě a síťová bezpečnost - 1. 3. 2025
+- Kryptografie - 2. 3. 2025
+- Programování - 8. 3. 2025
+- Kybernetické útoky - 9. 3. 2025
 
 
 
