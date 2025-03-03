@@ -18,6 +18,7 @@
 
 ## Kódování
 - Reprezentace dat dle předem stanoveného kódu
+- Využívá se pro obfuskaci, jejíž cílem je znečitelnit kód pro člověka
 - Při kódování není zadáván žádný klíč -> velmi jednoduché zjistit původní obsah
 - Text "SSPS" zakódovaný pomocí Base64:
 
